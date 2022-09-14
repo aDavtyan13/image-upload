@@ -4,6 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 The project allows you to upload images (there will be maximum 5 loadings for each upload).
 
+See live demo [here](https://adavtyan13.github.io/image-upload/).
 
 ## Development server
 
